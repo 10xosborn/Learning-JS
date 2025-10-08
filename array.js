@@ -13,6 +13,6 @@ const sum = numbers.reduce((total, num) => total + num, 0);
 const found = numbers.find(num => num > 30);
 
 // console.log('Doubled:', doubled);
- console.log('Filtered (Even NUmbers):', filtered);
+//  console.log('Filtered (Even NUmbers):', filtered);
 // console.log ('Sum:', sum);
-// console.log('Found (First nummbers > 3):', found);
+console.log('Found (First nummbers > 3):', found);
